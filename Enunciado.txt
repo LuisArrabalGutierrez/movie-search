@@ -1,13 +1,12 @@
 usar la api omdapi
-api_key: 1a988e8c
 
-hacer un input para buscar la pelicula y un boton para buscar
-listar las peliculas encontradas y mostrar el titulo, poster y año
-que se muestren en un grid resposive
+-hacer un input para buscar la pelicula y un boton para buscar
+-listar las peliculas encontradas y mostrar el titulo, poster y año
+-que se muestren en un grid resposive
 
 -evitar que se haga la misma busqueda 2 veces seguidas
-que la busqueda se haga automatica al escribir
-que no se vaya haciendo tod el rato la busqueda mientras se va escribiendo
+-que la busqueda se haga automatica al escribir
+-que no se vaya haciendo todo el rato la busqueda mientras se va escribiendo
 
 
 utiliza water.css para estilar la pagina
